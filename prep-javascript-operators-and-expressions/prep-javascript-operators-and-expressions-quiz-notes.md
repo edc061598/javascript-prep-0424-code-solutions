@@ -5,10 +5,15 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What data type is returned by an arithmetic operation?
+  A number is returned by an arithmetic operation.
 - What is string concatenation?
+  Joins two strings together.
 - What purpose(s) does the `+` plus operator serve in JavaScript?
+  The + is used for arithmetic operations as well as concatenating strings.
 - What data type is returned by comparing two values (`<`, `>`, `===`, etc)?
+  Boolean types, true or false.
 - What does the `+=` "plus-equals" operator do?
+  It adds the right operand to the left operand and assigns the result accordingly.
 
 ## Notes
 
